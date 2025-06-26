@@ -1,0 +1,2 @@
+O codigo tem o objetivo de auxiliar no gerenciamento da cantina, supervisionando os produtos e a quantidade deles, além de ajudar nas vendas e registros do estoque. Com esse codigo, a cantina podera funcionar com mais velocidade e perspicácia.
+Foi usado VSCode para escrever o programa e executa-lo. Usando diversos codigos e metodos, como: Let(usado para declrarar uma variável), If's(se, se não), For(usado como laço de repetição), do while, while, switch, etc.
